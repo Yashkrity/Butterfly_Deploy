@@ -1,0 +1,140 @@
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  width: 250px;
+  height:550px;
+  margin-top:50px;
+  margin-left:2px;
+  margin-right:20px;
+  float:left;
+  text-align: center;
+  font-family: verdana;
+  margin-right:50px;
+}
+.price {
+  color: grey;
+  font-size: 22px;
+}
+
+.card button {
+  border: none;
+  outline: 0;
+  padding: 15px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 80%;
+  font-size: 15px;
+}
+
+.card button:hover {
+  opacity: 0.7;
+}
+.card2 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  width: 250px;
+  height:550px;
+  margin-top:50px;
+  margin-left:2px;
+  margin-right:20px;
+  float:left;
+  text-align: center;
+  font-family: verdana;
+  margin-right:50px;
+}
+.price {
+  color: grey;
+  font-size: 22px;
+}
+
+.card2 button {
+  border: none;
+  outline: 0;
+  padding: 15px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 80%;
+  font-size: 15px;
+  margin-bottom:50px;
+}
+
+.card2 button:hover {
+  opacity: 0.7;
+}
+.card3 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  width: 250px;
+  height:550px;
+  margin-top:20px;
+  margin-left:2px;
+  margin-right:20px;
+  float:left;
+  text-align: center;
+  font-family: verdana;
+  margin-right:50px;
+}
+.price {
+  color: grey;
+  font-size: 22px;
+}
+
+.card3 button {
+  border: none;
+  outline: 0;
+  padding: 15px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 80%;
+  font-size: 15px;
+}
+
+.card3 button:hover {
+  opacity: 0.7;
+}
+.card4 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  width: 250px;
+  height:550px;
+  margin-top:50px;
+  margin-left:2px;
+  margin-right:20px;
+  float:left;
+  text-align: center;
+  font-family: verdana;
+  margin-right:50px;
+}
+.price {
+  color: grey;
+  font-size: 22px;
+}
+
+.card4 button {
+  border: none;
+  outline: 0;
+  padding: 15px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 80%;
+  font-size: 15px;
+}
+
+.card4 button:hover {
+  opacity: 0.7;
+}
+#seed1{
+	color:green;
+
+	font-family:verdana;
+
+}
+#veg{
+	color:green;
+	font-family:verdana;
+	margin-top:20px;
+}
